@@ -17,9 +17,9 @@ public class ConfigManager {
     };
 
     private final String[] dashboardUrls = {
-            "https://www.jiapuwang.net/b/wintec/k.php",  // 生产看板地址
+            "http://gz2.szscinfo.cn:8010/b/wintec/k.php",  // 生产看板地址
 //            "https://www.jiapuwang.net/b/wintec/k2.php",       // 改成你的销售看板地址
-            "https://www.jiapuwang.net/b/wintec/k2.php",   // 品质看板地址
+            "http://gz2.szscinfo.cn:8010/b/wintec/k2.php",   // 品质看板地址
 //            "https://www.jiapuwang.net/b/wintec/index.php"      // 改成你的财务看板地址
     };
 
