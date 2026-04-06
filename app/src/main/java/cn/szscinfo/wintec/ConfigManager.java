@@ -11,9 +11,9 @@ public class ConfigManager {
     // 看板配置（你可以修改成自己的ERP看板地址）
     private final String[] dashboardNames = {
             "生产看板",
-            "销售看板",
-            "库存看板",
-            "财务看板"
+//            "销售看板",
+            "品质看板",
+//            "财务看板"
     };
 
     private final String[] dashboardUrls = {
